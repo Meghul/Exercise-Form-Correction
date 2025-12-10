@@ -1,0 +1,6 @@
+mediapipe>=0.10.0
+opencv-python
+numpy
+pandas
+scipy
+mlflow>=1.30.0  # optional; remove if not using
