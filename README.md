@@ -125,3 +125,9 @@ Advanced ML-based posture correction.
 Save session data for tracking progress
 ```bash
 python -m venv venv
+
+
+## OUTPUT:
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 223016" src="https://github.com/user-attachments/assets/5e7443d4-7131-4c0a-a244-2a7a593b91bf" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 223047" src="https://github.com/user-attachments/assets/b77a96b2-7ff6-45e3-947a-e1dcef7632e6" />
